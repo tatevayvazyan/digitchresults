@@ -1,0 +1,40 @@
+body {
+    background-color: #ffeb3b;
+}
+
+.contenier {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.inform-block {
+    width: max-content;
+    padding: 55px;
+    margin: 20px 0 0 15px;
+    background-color: white;
+    border-radius: 155px;
+}
+
+.row {
+    display: flex;
+}
+
+.value {
+    color: #66bb6a;
+    margin-left: 15px;
+    font-size: 18px;
+}
+
+.title {
+    color: #66bb6a;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.logo {
+    font-family: 'Luckiest Guy', cursive;
+    color: #66bb6a;
+    font-size: 48px;
+    padding: 10px;
+}
